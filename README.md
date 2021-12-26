@@ -20,6 +20,11 @@ pip install keras==2.2.4
 pip install opencv-python
 ```
 
+# ✔ Start the project using
+
+```
+python detection.py
+```
 
 # 🤝🏻 Connect with Me
 
