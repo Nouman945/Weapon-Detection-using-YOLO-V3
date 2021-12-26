@@ -1,4 +1,4 @@
-## Weapon-Detection-using-YOLO-V3
+# Weapon-Detection-using-YOLO-V3
 This is a mini Weapon 🔪 Detection system from realtime video's using YOLO V3 for Security Center's. 
 
 Currently working on creating the frontend for the system as well. Any contributions are welcome.😍
@@ -11,7 +11,7 @@ knifes
 Fire
 ```
 
-# ✔ To run this project on your own system just install the following dependencies.
+## ✔ To run this project on your own system just install the following dependencies.
 
 ```
 python==3.6.8
@@ -20,7 +20,7 @@ pip install keras==2.2.4
 pip install opencv-python
 ```
 
-# ✔ Start the project using
+## ✔ Start the project using
 
 ```
 python detection.py
