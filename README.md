@@ -3,7 +3,7 @@ This is a mini Weapon 🔪 Detection system from realtime video's using YOLO V3 
 
 Currently working on creating the frontend for the system as well. Any contributions are welcome.😍
 
-This model can sucessfully detect the following things.
+This model can sucessfully detect the following things. Download Weight File from [here](https://drive.google.com/file/d/1jShkI5a7H9LyhLb_M0ifLe3851L9p5d_/view?usp=sharing)
 
 ```
 Weapons
